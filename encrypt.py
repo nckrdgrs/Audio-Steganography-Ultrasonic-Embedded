@@ -1,7 +1,7 @@
 # We will use wave package available in native Python installation to read and write .wav audio file
 import wave
 """# read wave audio file"""
-song = wave.open("One Punch Man Theme.wav", mode='rb')
+song = wave.open("21000.wav", mode='rb')
 us=wave.open("song_embedded_ultrasonic.wav",mode='rb')
 #song is a object
 #print("song :", song)
